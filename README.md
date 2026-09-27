@@ -33,7 +33,7 @@ told what's on at the next session. Turning up to a session works too.
 
 | Folder | Contents |
 | --- | --- |
-| `logs/` | One markdown file per session, named by date (`YYYY-MM-DD.md`). |
+| `logs/` | One markdown file per session, named `YYYY-MM-DD-session-XN.md` (X is A or B, N is the session number for that track). |
 | `wharton/` | IPS drafts, research notes, portfolio tracker, trade log. |
 | `puzzles/` | Jane Street puzzle write-ups — one file per puzzle. |
 | `pitches/` | Stock pitch slides and written theses. |
